@@ -1,0 +1,12 @@
+.title{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    color: yellowgreen;
+    width: 250px;
+    height: 80px;
+    padding: 3px;
+    border: black solid 2px;
+    margin: 5px;
+    font-size: 18px;
+    text-transform: capitalize;
+}
